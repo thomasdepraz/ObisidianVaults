@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "cfcefb4057a657cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "bec89646c00d44bd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Generics.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2efe7f14c6d62baa",
+    "type": "split",
+    "children": [
+      {
+        "id": "429a099d48e99706",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b004cb02ae75640",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c753264de74b0a20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280
+  },
+  "right": {
+    "id": "4d932fa59b2ce833",
+    "type": "split",
+    "children": [
+      {
+        "id": "97a3f567f567299a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca7ba2eeb77882f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Generics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bec89646c00d44bd",
+  "lastOpenFiles": [
+    "Entity.md",
+    "ECS.md",
+    "CSharp Job System.md",
+    "Component.md",
+    "Generics.md",
+    "System.md",
+    "Stack.md",
+    "C_Sharp.md",
+    "Heap.md",
+    "Archetypes.md"
+  ]
+}

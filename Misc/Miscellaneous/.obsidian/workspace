@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "b8480931b2fe4c27",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dcae4891fc9309c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "VFX.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74e300d0c452cd83",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e1669932567b910",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa08daa3cbfee934",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3fee9952c7d7659",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cdcfd93d99a666c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4b905324da05ae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca35404150393391",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VFX.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6dcae4891fc9309c",
+  "lastOpenFiles": [
+    "VFX.md",
+    "UI.md",
+    "Substance.md",
+    "Pipeline Game Artists.md",
+    "Modélisation.md",
+    "Lighting.md",
+    "Sculpt.md",
+    "Animation.md"
+  ]
+}

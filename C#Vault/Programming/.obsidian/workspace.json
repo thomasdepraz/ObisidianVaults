@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "cfcefb4057a657cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b02ba89a0ed458a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1ea73b03e33a059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GOAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2efe7f14c6d62baa",
+    "type": "split",
+    "children": [
+      {
+        "id": "429a099d48e99706",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b004cb02ae75640",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c753264de74b0a20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b9080cbbc1a72d93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280
+  },
+  "right": {
+    "id": "4d932fa59b2ce833",
+    "type": "split",
+    "children": [
+      {
+        "id": "97a3f567f567299a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca7ba2eeb77882f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GOAP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "d1ea73b03e33a059",
+  "lastOpenFiles": [
+    "Actions.md",
+    "GOAP.md",
+    "Plan.md",
+    "Goals.md",
+    "Heap.md",
+    "Untitled.canvas",
+    "Images/GOAP_PlanFormulationProcess.png",
+    "Images",
+    "Archetypes.md",
+    "Burst Compiler.md",
+    "C_Sharp.md",
+    "Component.md",
+    "Stack.md",
+    "Entity.md",
+    "Generics.md",
+    "System.md",
+    "ECS.md",
+    "CSharp Job System.md"
+  ]
+}
